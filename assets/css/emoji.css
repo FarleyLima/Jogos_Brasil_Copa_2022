@@ -1,0 +1,27 @@
+.emoji {
+  position: fixed;
+  width: 350px;
+  left: -350px;
+  bottom: 0;
+  transform: rotate(45deg);
+}
+
+@keyframes show {
+  0% {
+    left: -350px;
+  }
+
+  50% {
+    left: -55px;
+  }
+
+  100% {
+    left: -350px;
+  }
+}
+
+.emoji.show {
+  animation: ease-in-out; /*começa devagar e sai devavar*/
+  animation-name: show;
+  animation-duration: 5s;
+}

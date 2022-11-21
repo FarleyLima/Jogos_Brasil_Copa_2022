@@ -1,0 +1,28 @@
+
+.emoji2 {
+  position: fixed;
+  width: 350px;
+  left: -350px;
+  bottom: 0;
+  transform: rotate(45deg);
+}
+
+@keyframes show2 {
+  0% {
+    left: -350px;
+  }
+
+  50% {
+   left: -35px;
+  }
+
+  100% {
+    left: -350px;
+  }
+}
+
+.emoji2.show2 {
+  animation: ease-in-out;
+  animation-name: show;
+  animation-duration: 5s;
+}
