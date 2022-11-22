@@ -24,6 +24,6 @@ Aqui estão minhas redes sociais. Caso queiram falar comigo, é só chamar! ;).
 
 -  [Linkedin](https://www.linkedin.com/in/farley-lima-a364a4122/)
 -  [Instagram](https://www.instagram.com/farley.lima.18)
--  [Twitter](https://twitter.com/eomgn)
+-  [Twitter](https://www.twitch.tv/fl12_silva)
 
 
